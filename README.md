@@ -38,4 +38,5 @@ The user-friendly web-based UI ensures easy interaction, making the experience s
 ## References
 
 [LlamaIndex introduction](https://docs.llamaindex.ai/en/stable/#introduction)
+
 [Starter Tutorial (OpenAI) LlamaIndex](https://docs.llamaindex.ai/en/stable/getting_started/starter_example/)
